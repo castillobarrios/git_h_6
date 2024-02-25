@@ -1,0 +1,2 @@
+tuve que descargar el archivo de forma normal y trasladarlo desde mi carpeta de descarga hasta la carpeta local de mi repositorio ya que tuve problemas con la red en en momento de hacer el comando de git clone.
+
